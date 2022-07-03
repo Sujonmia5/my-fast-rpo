@@ -1,0 +1,39 @@
+.p{
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: justify;
+    padding: 10px;
+    margin: 15px;
+}
+.bold{
+    color: burlywood;
+}
+p{
+   color: blueviolet;
+   font-size: 20px;
+   background-color: aquamarine;
+   border: 1px solid black;
+   text-align: center;
+   font-family: serif;
+   border-radius: 10px;
+   margin: 15px;
+}
+.table{
+  margin-left: 30%;
+  box-sizing: border-box;
+}
+.computer{
+    font-size: 20px;
+    color: chocolate;
+}
+marquee{
+    font-size: 50px;
+    color: blue;   
+}
+body{
+    background-color: purple;
+    image-resolution: 1080px 720px;
+}
